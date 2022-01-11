@@ -1,1 +1,3 @@
+Si al iniciar la app Visual Studio le pide que descargue alguntos packages perdidos, dar en la opcion GET PACKAGES porque no nos dejo subir a GitHub
+.
 Si llegase a presentar un error generandose una pantalla roja, favor de tocar la nota de arriba volverla a guardar.
